@@ -6,4 +6,4 @@ VEdge_Detector is a python-based tool for the automated detection of coastal veg
 
 ![alt text](https://github.com/MartinSJRogers/VEdge_Detector/blob/main/example_Images.png)
 
-This is a forked version of VEdge_Detector GitHub repo, https://github.com/MartinSJRogers/VEdge_Detector adapted for [scivision](https://github.com/alan-turing-institute/scivision).
+The original source code of VEdge_Detector GitHub repo is available at https://github.com/MartinSJRogers/VEdge_Detector. This repository has refactored the code for [scivision](https://github.com/alan-turing-institute/scivision).
