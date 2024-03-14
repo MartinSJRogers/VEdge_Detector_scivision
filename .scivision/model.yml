@@ -1,5 +1,5 @@
 name: VEdge Detector
-url: https://github.com/Tonks684/VEdge_Detector_scivision.git
+url: https://github.com/Tonks684/VEdge_Detector_scivision/
 import: vedge_detector
 model: vedge_detector
 args: None
